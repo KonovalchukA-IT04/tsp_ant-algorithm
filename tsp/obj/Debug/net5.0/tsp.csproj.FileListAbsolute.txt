@@ -1,0 +1,16 @@
+E:\studying\II course\III semestr\algorithms\lab_4_1(ant_colony)\tsp\tsp\bin\Debug\net5.0\tsp.exe
+E:\studying\II course\III semestr\algorithms\lab_4_1(ant_colony)\tsp\tsp\bin\Debug\net5.0\tsp.deps.json
+E:\studying\II course\III semestr\algorithms\lab_4_1(ant_colony)\tsp\tsp\bin\Debug\net5.0\tsp.runtimeconfig.json
+E:\studying\II course\III semestr\algorithms\lab_4_1(ant_colony)\tsp\tsp\bin\Debug\net5.0\tsp.runtimeconfig.dev.json
+E:\studying\II course\III semestr\algorithms\lab_4_1(ant_colony)\tsp\tsp\bin\Debug\net5.0\tsp.dll
+E:\studying\II course\III semestr\algorithms\lab_4_1(ant_colony)\tsp\tsp\bin\Debug\net5.0\ref\tsp.dll
+E:\studying\II course\III semestr\algorithms\lab_4_1(ant_colony)\tsp\tsp\bin\Debug\net5.0\tsp.pdb
+E:\studying\II course\III semestr\algorithms\lab_4_1(ant_colony)\tsp\tsp\obj\Debug\net5.0\tsp.GeneratedMSBuildEditorConfig.editorconfig
+E:\studying\II course\III semestr\algorithms\lab_4_1(ant_colony)\tsp\tsp\obj\Debug\net5.0\tsp.AssemblyInfoInputs.cache
+E:\studying\II course\III semestr\algorithms\lab_4_1(ant_colony)\tsp\tsp\obj\Debug\net5.0\tsp.AssemblyInfo.cs
+E:\studying\II course\III semestr\algorithms\lab_4_1(ant_colony)\tsp\tsp\obj\Debug\net5.0\tsp.csproj.CoreCompileInputs.cache
+E:\studying\II course\III semestr\algorithms\lab_4_1(ant_colony)\tsp\tsp\obj\Debug\net5.0\tsp.dll
+E:\studying\II course\III semestr\algorithms\lab_4_1(ant_colony)\tsp\tsp\obj\Debug\net5.0\ref\tsp.dll
+E:\studying\II course\III semestr\algorithms\lab_4_1(ant_colony)\tsp\tsp\obj\Debug\net5.0\tsp.pdb
+E:\studying\II course\III semestr\algorithms\lab_4_1(ant_colony)\tsp\tsp\obj\Debug\net5.0\tsp.genruntimeconfig.cache
+E:\studying\II course\III semestr\algorithms\lab_4_1(ant_colony)\tsp\tsp\obj\Debug\net5.0\tsp.csproj.AssemblyReference.cache
